@@ -2,4 +2,4 @@ forge "https://forge.puppetlabs.com/"
 
 mod 'helloworld',
   :git => 'https://github.com/leerich/puppet-helloworld.git',
-  :ref => 'c51a135fb0471ba5b49e70a54c7a59301cd7c41b'
+  :ref => 'd4f2e46c903e1194ec9267c95c7fb55c53387b92'
