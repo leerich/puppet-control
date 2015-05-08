@@ -89,4 +89,4 @@ mod 'ec2tags',
   :git => 'git@github.com:mrzarquon/puppet-ec2tags.git'
 mod 'helloworld',
   :git => 'ssh://git@github.com/leerich/puppet-helloworld.git',
-  :ref => 'bf801b1558c283739678aa91507a55a359059ea5'
+  :ref => '25705e1d5b9bea3be5556ec22c262b4c0b38e36a'
